@@ -1,0 +1,34 @@
+body{
+    background-color: #51d3cc;
+    margin:25px;
+}
+#formmostrar{
+    font-size:23px;
+    font-family: 'Arial';
+    text-align: center;
+    padding: 50px;
+}
+#nota1{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    height:30px;
+}
+#nota2{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    height:30px;
+}
+#nota3{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    height:30px;
+}
+#nota4{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    height:30px;
+}
+#botao{
+    padding:8px;
+    font-size:28px;
+}
